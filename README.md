@@ -20,4 +20,4 @@ Publish using `mkdocs gh-deploy`
 
 # Release Process
 1. Once the `dev` branch has reached the expected state make a PR to `main`
-2. 
+2. On merged PR an action will run `mkdocs gh-deploy` and (TODO: commit the new site changes to the main branch and push it)
