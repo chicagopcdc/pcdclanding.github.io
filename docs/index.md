@@ -1,5 +1,5 @@
 ![Logo](img/PcdcLogo.png)
-# Welcome to the PCDC Documentation Site
+# Welcome to pedscommons.org!
 
 This site contains the links to the different platforms PCDC is hosting.
 
