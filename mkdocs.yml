@@ -1,0 +1,16 @@
+site_name: PCDC Landing Page
+theme:
+  name: material
+  font:
+    text: Raleway
+  favicon: img/favicon.ico
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
