@@ -9,7 +9,7 @@ The [PCDC Data Portal](https://portal.pedscommons.org/login) is a unified home f
 
 [GEARBOx](https://gearbox.pedscommons.org/), developed by the PCDC in partnership with The Leukemia & Lymphoma Society, is a decision-support tool for use by clinicians and nurse navigators to identify potential clinical trials to enroll their patients, based on the patient’s clinical and genomic testing and information abstracted from the trial protocol. 
 
-Join us in working toward a world where access to high-quality data is never a barrier to curing diseases and improving human health. Use the links on this page to access the [PCDC Data Portal](https://portal.pedscommons.org/login) and [GEARBOx](https://gearbox.pedscommons.org/), find [documentation and help with our tools](https://docs.pedscommons.org/), and [learn more about us at our website](http://commons.cri.uchicago.edu).
+**Join us in working toward a world where access to high-quality data is never a barrier to curing diseases and improving human health.** Use the links on this page to access the [PCDC Data Portal](https://portal.pedscommons.org/login) and [GEARBOx](https://gearbox.pedscommons.org/), find [documentation and help with our tools](https://docs.pedscommons.org/), and [learn more about us at our website](http://commons.cri.uchicago.edu).
 
 |[![Us](img/WP_site.png){ align=left }](https://commons.cri.uchicago.edu "Our Website") PCDC Website|[![Documentation](img/doc_site.png){ align=left }](https://docs.pedscommons.org "Our Documentation") **PCDC Documentation**|
 |:---:|:---:|
