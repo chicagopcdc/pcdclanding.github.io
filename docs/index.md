@@ -1,4 +1,4 @@
-![Logo](img/PcdcLogo.png)
+![Logo](img/D4CG_logo.png)
 # Welcome to pedscommons.org! 
 
 **Welcome to pedscommons.org, home of the Pediatric Cancer Data Commons (PCDC).**
