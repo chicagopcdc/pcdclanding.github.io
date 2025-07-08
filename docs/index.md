@@ -14,7 +14,6 @@ The [PCDC Data Portal](https://portal.pedscommons.org/login) is a unified home f
 |[![Us](img/WP_site.png){ align=left }](https://commons.cri.uchicago.edu "Our Website") D4CG Website|[![Documentation](img/doc_site.png){ align=left }](https://docs.pedscommons.org "Our Documentation") **D4CG Documentation**|
 |:---:|:---:|
 |[![Pediatric Cancer Data Common](img/commons_site.png){ align=left }](https://portal.pedscommons.org "Our Data Common") **PCDC Data Portal**|[![GEARBOx](img/gearbox_site.png){ align=left }](https://gearbox.pedscommons.org "Our Clinical Trial Tool") **GEARBOx**|
-|:---:|:---:|
 |[![CCDI Federation](img/federation_site.png){ align=left }](https://ccdifederation.pedscommons.org/api/v1/docs "Our federation server") **CCDI Federation**||
 
 
